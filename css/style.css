@@ -2,3 +2,13 @@
   color: red;
   display: block;
 }
+.navbar{
+  color: black;
+  background-color: #15d5a8;
+  display: inline-block;
+  position: relative;
+}
+.navbar-brand{
+  color: pink;
+  background-color: yellow;
+}
