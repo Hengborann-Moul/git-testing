@@ -6,3 +6,7 @@ Hello guys.
 and here is my friend polin........
 he is working on his website.
 We are working on Leader ship website.
+
+git commit -am "my commit message"
+
+git add <file_name>
